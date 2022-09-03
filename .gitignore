@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
 dist/
+.pybuild
 PyP100.egg-info/
+debian/.debhelper/
+debian/python3-pyp100
