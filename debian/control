@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
 Build-Depends: python3-all,
 	dh-python,
+	python3-setuptools,
 	debhelper-compat (= 12)
 Standards-Version: 4.5.0
 Homepage: https://github.com/Vitexus/TapoP100
